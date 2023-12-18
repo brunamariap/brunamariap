@@ -1,4 +1,7 @@
 ## Sobre mim
+<div>
+  Desenvolvedora de software dedicada, buscando oportunidades para contribuir em projetos usando minhas habilidades em desenvolvimento de software.
+</div>
 
 ## :computer: Technologies & Tools
 
@@ -17,7 +20,6 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-pinto/)
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/__brunamp)
 </div>
 
 
